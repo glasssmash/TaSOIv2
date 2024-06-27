@@ -161,8 +161,8 @@ hash = "5e443528c2e97cfbac0d317fb3f2c2da3ecf8693647b8c44a6a9b46964073ff8"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting.pw.toml"
-hash = "fda7c004bd2c7d60d2d3bda94a3c839da723e78d437d1f39ac041f7609b5db91"
+file = "mods/hex-casting.pw.toml"
+hash = "53e83e4a46fa1fc9f865fc1dd458b256f3f3083cdeabdee417834d83e3b1b739"
 metafile = true
 
 [[files]]
