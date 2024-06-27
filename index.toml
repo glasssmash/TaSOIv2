@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/icarus.pw.toml"
-hash = "e93e5689138b8609c9dbb2c07385bee29e43b1eb3df9d1e558820a7092683536"
+hash = "ae785b1b9bc3264453b5f3e5c71d822b9e79c56a1e2a3e6ad82c0684b21b2ef1"
 metafile = true
 
 [[files]]
@@ -102,4 +102,4 @@ metafile = true
 
 [[files]]
 file = "overrides/icarus-1.14.jar"
-hash = "224b10970c7576e7a608734b4bfa45c81b90a8d5be7c6d6d0193900c3528ee15"
+hash = "4b7ac2d35d0150917a405fb1740a840d87f6192eb299c49d6eee8416322ce787"
