@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "40b5439cb2d45983ecb67ce154a1fff2c002b0cdb52f4358c3d93f697e7ff6f4"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "5f4e53d780c86768f7cf66628a457915e95edb51c8a52d81cf676585c8d6175d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
@@ -11,8 +21,23 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
+file = "mods/origins.pw.toml"
+hash = "f6dfb523f158c40358b7050b996a773aed56079423bb587f103a63ec8c3316d6"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "e6d455afe0bc630965481b1a35a8acff4b4a0eaf1844aa30b859735cf05be5d3"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "45a0be935bcca91138996460610bd84312729d6ae00648fbb7ea332bd23bb437"
 metafile = true
 
 [[files]]
