@@ -1,0 +1,9 @@
+name = "Icarus"
+filename = "icarus-1.15.jar"
+side = "both"
+
+[download]
+url = "https://github.com/stygigoth/TaSOIv2/raw/trunk/overrides/icarus-1.14.jar"
+
+hash-format = "sha256"
+hash = "4b7ac2d35d0150917a405fb1740a840d87f6192eb299c49d6eee8416322ce787"
