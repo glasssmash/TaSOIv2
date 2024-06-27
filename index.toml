@@ -26,6 +26,11 @@ hash = "b453a280fcd953cf3b0a92145417aa8b3e6ef3b20641a310965c887bddfe1b8c"
 metafile = true
 
 [[files]]
+file = "mods/icarus.pw.toml"
+hash = "e93e5689138b8609c9dbb2c07385bee29e43b1eb3df9d1e558820a7092683536"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
@@ -94,3 +99,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "41af69fa69416026d2e1099a42f66d97cfb42786f689408e518b0134433446cf"
 metafile = true
+
+[[files]]
+file = "overrides/icarus-1.14.jar"
+hash = "224b10970c7576e7a608734b4bfa45c81b90a8d5be7c6d6d0193900c3528ee15"
