@@ -6,6 +6,26 @@ hash = "602b1ad3cc17ce560a449be683de62a2e7b0babbb945a4c2229c146bca9692ee"
 metafile = true
 
 [[files]]
+file = "mods/blahaj.pw.toml"
+hash = "422269e01109affac0ca7810c92a6528a050ae95f90185c6ee0baa8f1dc7fad9"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "87f339c783840fc692ce681b878bf683bee38b5ff5388a4151b5c14b9ecfd8aa"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "b1fd6e846b55d997d34de078bb850e4ddd76817a93cff2b50ae000388f8123cf"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "820917d17381f579f22b53b913fb77e515ec9e04be1f19e95cfdbfad72a11f2a"
 metafile = true
@@ -26,8 +46,23 @@ hash = "b453a280fcd953cf3b0a92145417aa8b3e6ef3b20641a310965c887bddfe1b8c"
 metafile = true
 
 [[files]]
+file = "mods/giant-spawn.pw.toml"
+hash = "5e443528c2e97cfbac0d317fb3f2c2da3ecf8693647b8c44a6a9b46964073ff8"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "fda7c004bd2c7d60d2d3bda94a3c839da723e78d437d1f39ac041f7609b5db91"
+metafile = true
+
+[[files]]
 file = "mods/icarus.pw.toml"
 hash = "ae785b1b9bc3264453b5f3e5c71d822b9e79c56a1e2a3e6ad82c0684b21b2ef1"
+metafile = true
+
+[[files]]
+file = "mods/infinity-with-mending.pw.toml"
+hash = "b5315e3f32245bb6e062d7fae28ab947b3f0a4256045cc352d88bc7fd5a3e202"
 metafile = true
 
 [[files]]
@@ -56,8 +91,33 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
+file = "mods/norecipebook-fabric.pw.toml"
+hash = "a7da334b24f62697c535e9a34aa4a9963f7d839a37defe12c5e7d80931113138"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "c64f8051b4c8cd2d1ecc17347eb986f7fec0613622cf993c92c323e8b6d9d4c7"
+metafile = true
+
+[[files]]
 file = "mods/polymer.pw.toml"
 hash = "2f02aae30c91251d50e9000d2a70e90f36024af6fe541b8d15fc7e4b9862e192"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "7489ffa88ea89b40e3cd4c6fcc34af2efaebc849699971cf673428aa42abc174"
 metafile = true
 
 [[files]]
@@ -71,6 +131,21 @@ hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "9b0995d469116c38c30ea1b5141949652cb37671f4d671edcc9e22548fd2eb20"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "50dac9ea384be6595157d4db116788a68eb27109f3a6138290d9af07d062943d"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "2a4bf64250000eb77f1f1624baa54a5bb4425b4053d49c1efc49b177b1d424f9"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
@@ -81,8 +156,18 @@ hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
+file = "mods/spectrum.pw.toml"
+hash = "a0a0fb8b0139bafbb49656315a044ae52bc61ba6552091fba3071e0cee3d56f5"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "c26a44434f142748c63ea3a012db9a4e4e187f2ee6e20e78a6f38c3710498b93"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
