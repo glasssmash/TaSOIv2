@@ -1,8 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "602b1ad3cc17ce560a449be683de62a2e7b0babbb945a4c2229c146bca9692ee"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "820917d17381f579f22b53b913fb77e515ec9e04be1f19e95cfdbfad72a11f2a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "15c7fbfee4765f2ae43469ffbc3b424bbdd6b57b0d68bef4892af53d3be14185"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
+metafile = true
+
+[[files]]
 file = "mods/ezrstorage.pw.toml"
 hash = "b453a280fcd953cf3b0a92145417aa8b3e6ef3b20641a310965c887bddfe1b8c"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
@@ -13,6 +43,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "2f02aae30c91251d50e9000d2a70e90f36024af6fe541b8d15fc7e4b9862e192"
 metafile = true
 
 [[files]]
@@ -28,4 +68,29 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "c26a44434f142748c63ea3a012db9a4e4e187f2ee6e20e78a6f38c3710498b93"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "f405e1b2cbdb29a801ef83bd3eb78b90360b29d3ca957683d25aae72365059a6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "97d5dfd81c3cb552216a8222dcda957b5fa7d74efd3aae72a476390624b80991"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "41af69fa69416026d2e1099a42f66d97cfb42786f689408e518b0134433446cf"
 metafile = true
