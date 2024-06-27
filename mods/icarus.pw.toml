@@ -1,5 +1,5 @@
 name = "Icarus"
-filename = "icarus-1.14.jar"
+filename = "icarus-1.15.jar"
 side = "both"
 
 [download]
